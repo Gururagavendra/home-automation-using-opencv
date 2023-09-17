@@ -27,26 +27,23 @@ The project uses OpenCV for hand gesture detection and Arduino with Firmata for 
    ```bash
    git clone https://github.com/yourusername/hand-gesture-automation.git
    ```
-1.Clone this repository to your local machine:
-```bash
-   git clone https://github.com/yourusername/hand-gesture-automation.git
-   ```
-2.Install the required Python libraries:
+
+2. Install the required Python libraries:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3.Upload the Firmata firmware to your Arduino board using the Arduino IDE.
+3. Upload the Firmata firmware to your Arduino board using the Arduino IDE.
 
-4.Connect the LEDs to the Arduino board, ensuring you use appropriate resistors to limit current.
+4. Connect the LEDs to the Arduino board, ensuring you use appropriate resistors to limit current.
 
-5.Run the Python script:
+5. Run the Python script:
 
 ```bash
 python hand_gesture_control.py
 ```
-6.Raise fingers in front of the camera to control the connected LEDs or other devices.
+6. Raise fingers in front of the camera to control the connected LEDs or other devices.
 
 ## Usage
 Adjust the camera settings and detection thresholds in the hand_gesture_control.py script to optimize hand gesture recognition for your environment.
