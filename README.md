@@ -16,7 +16,7 @@ The project uses OpenCV for hand gesture detection and Arduino with Firmata for 
 - Python 3.x
 - OpenCV library
 - Arduino board with Firmata firmware
-- LEDs and appropriate resistors
+- Components Needed: LEDs, Jumper Wires and Breadboard
 - Webcam or laptop camera
 - Devices to control (e.g., LEDs, TVs, fans, etc.)
 
