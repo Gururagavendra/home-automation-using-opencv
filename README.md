@@ -25,7 +25,7 @@ The project uses OpenCV for hand gesture detection and Arduino with Firmata for 
 1. Clone this repository to your local machine:
    
    ```bash
-   git clone https://github.com/yourusername/hand-gesture-automation.git
+   https://github.com/Gururagavendra/home-automation-using-opencv
    ```
 
 2. Install the required Python libraries:
