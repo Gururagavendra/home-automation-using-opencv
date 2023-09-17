@@ -61,5 +61,4 @@ Arduino for the microcontroller platform.
 PyFirmata for the Python-Arduino communication library.
 
 ## Author
-Gururagavendra
 GitHub: Gururagavendra
