@@ -40,9 +40,9 @@ The project uses OpenCV for hand gesture detection and Arduino with Firmata for 
 
 5. Run the Python script:
 
-```bash
-python hand_gesture_control.py
-```
+   ```bash
+   python hand_gesture_control.py
+   ```
 6. Raise fingers in front of the camera to control the connected LEDs or other devices.
 
 ## Usage
